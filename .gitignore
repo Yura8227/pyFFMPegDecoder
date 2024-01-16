@@ -1,0 +1,5 @@
+pyFFMpegDecoder/Lib/site-packages/*
+pyFFMpegDecoder/Scripts/*
+pyvenv.cfg
+
+pyFFMpegDecoder/share/man/man1/ttx.1
